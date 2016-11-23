@@ -12,3 +12,5 @@ http://noboyu.hatenablog.com/entry/2016/04/25/215451
 
 <img src="arduino_noboyu_cranegame/crane.jpg" width="450">
 
+
+<img src="https://github.com/mechanoboyu/arduino_noboyu_cranegame/blob/master/crane.jpg" width="450">
