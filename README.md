@@ -3,7 +3,6 @@
 以前、arudinoで動かすクレーンゲームを作りました。
 http://noboyu.hatenablog.com/entry/2016/04/25/215451
 
-https://raw.github.com/wiki/mechanoboyu/arduino_noboyu_cranegame/images/図3.jpg
 
 図面など製作資料の置き場所です。
 
