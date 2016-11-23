@@ -11,4 +11,4 @@ http://noboyu.hatenablog.com/entry/2016/04/25/215451
 また追加工が必要な箇所もありますので、その辺はご留意ください。
 
 <img src="arduino_noboyu_cranegame/crane.jpg" width="450">
-![画像の説明](arduino_noboyu_cranegame/crane.jpg)
+
