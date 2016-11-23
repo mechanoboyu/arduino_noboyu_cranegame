@@ -1,7 +1,7 @@
 # arduino_noboyu_cranegame
 
-以前、arudinoで動かすクレーンゲームを作りました。
-<img src="https://github.com/mechanoboyu/arduino_noboyu_cranegame/blob/master/crane.jpg" width="350">
+以前、arudinoで動かすクレーンゲームを作りました。  
+<img src="https://github.com/mechanoboyu/arduino_noboyu_cranegame/blob/master/crane.jpg" width="200">
 
 http://noboyu.hatenablog.com/entry/2016/04/25/215451
 
