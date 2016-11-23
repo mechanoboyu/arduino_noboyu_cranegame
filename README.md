@@ -10,4 +10,4 @@ http://noboyu.hatenablog.com/entry/2016/04/25/215451
 バリ取り指示がないとか、ピン角の面取り指示がないとか。  
 また追加工が必要な箇所もありますので、その辺はご留意ください。
 
-<img src="http://img.f.hatena.ne.jp/images/fotolife/n/noboyu/20161112/20161112231535.jpg" width="450">
+<img src="arduino_noboyu_cranegame/crane.jpg" width="450">
