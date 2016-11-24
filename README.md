@@ -13,3 +13,4 @@ http://noboyu.hatenablog.com/entry/2016/04/25/215451
 バリ取り指示がないとか、ピン角の面取り指示がないとか。  
 また追加工が必要な箇所もありますので、その辺はご注意ください。
 
+http://noboyu.hatenablog.com/
